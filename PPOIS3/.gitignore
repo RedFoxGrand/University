@@ -1,0 +1,16 @@
+*.sln
+*.vcxproj*
+*.user
+*.config
+*.suo
+.vs/
+x64/
+Debug/
+Release/
+packages/
+
+*.obj
+*.exe
+*.log
+*.pdb
+*.idb
